@@ -16,8 +16,6 @@ class MyApp extends StatelessWidget {
         textTheme: const TextTheme(
           headline4: TextStyle(fontSize: 70),
           headline2: TextStyle(fontSize: 70),
-          headline3: TextStyle(fontSize: 70),
-          headline6: TextStyle(fontSize: 70),
         ),
       ),
       home: const MyHomePage(title: 'Flutter Demo Home Page'),
